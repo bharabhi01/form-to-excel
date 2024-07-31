@@ -1,5 +1,4 @@
-Simple project which uses Judge0 to get the output of your code.
+A simple app which would convert your form into an excel format.
 
-- Frontend -> ReactJs 
-- Backend -> GO
-- Database -> MySQL, Redis
+Frontend: React
+Backend: Supabase
